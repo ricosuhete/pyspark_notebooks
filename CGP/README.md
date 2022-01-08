@@ -1,4 +1,4 @@
-#Laboratório Qwiklabs no Google Platform
+# Laboratório Qwiklabs no Google Platform
 
 Migração do Spark para o BigQuery via Dataproc
 
