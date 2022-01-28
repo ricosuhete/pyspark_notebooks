@@ -5,4 +5,4 @@
 - Queries Spark SQL - [Clique Aqui](/Spark_SQL)
 
 
- ** Atualizações e Inserções diárias de Códigos e Notebooks
+
